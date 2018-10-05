@@ -1,6 +1,6 @@
 # 数据分析实践 | Data Analysis Practice
 本仓库收集自己的一些数据分析的实践练习。2018.10.05更新。 
-This repository collects some of my data analysis practice works. Last updated 2018.10.05.
+This repository collects some of my data analysis practice works. Last updated 2018.10.05.   
 
 </br>
 
