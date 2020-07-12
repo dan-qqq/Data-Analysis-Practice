@@ -12,3 +12,6 @@ This repository collects some of my data analysis practice works. Last updated 2
 
 * [数据分析师市场需求研究 | Analysis of Market Demand for Data Analysts](https://nbviewer.jupyter.org/github/QindanUCL/Data-Analysis-Practice/blob/master/Data%20Analyst%20Job%20Analysis/JobAnalysis.ipynb) 
 分析深圳市数据分析师招聘岗位的特征，研究哪类人市场需求较高，哪些因素会影响数据分析师的薪资水平。
+  
+* [支付宝营销策略效果分析](https://nbviewer.jupyter.org/github/QindanUCL/Data-Analysis-Practice/blob/master/%E3%80%90AB%E6%B5%8B%E8%AF%95%E3%80%91%E6%94%AF%E4%BB%98%E5%AE%9D%E8%90%A5%E9%94%80%E7%AD%96%E7%95%A5%E6%95%88%E6%9E%9C%E5%88%86%E6%9E%90.ipynb)  
+用A/B测试评价支付宝两组营销策略的效果。
